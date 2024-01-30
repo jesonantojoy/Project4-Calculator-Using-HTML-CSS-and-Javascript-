@@ -1,3 +1,0 @@
-Basic Simple calculator
-
-Basic calculator web app using HTML, CSS, and JavaScript, featuring a user-friendly interface with numeric buttons, arithmetic operations, an equal button for computation, and a clear button for resetting. Implement keyboard support, write JavaScript functions for event handling and dynamic display updates, apply CSS for styling, and deploy the calculator on a web server or platforms like GitHub Pages. Optional enhancements include backspace, percentage calculation, or memory functions for an improved user experience. Customize the design and features based on your preferences for a practical web development project.
